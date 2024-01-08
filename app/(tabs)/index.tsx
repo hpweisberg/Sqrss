@@ -8,7 +8,7 @@ const index = () => {
       <Link href={"/(modals)/login"}>
         Login
       </Link>
-      <Link href={"/Games/112"}>Game 112</Link>
+      <Link href={"/games/112"}>Game 112</Link>
     </View>
   )
 }

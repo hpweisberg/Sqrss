@@ -74,6 +74,9 @@ function RootLayoutNav() {
             ),
           }}
         />
+        <Stack.Screen
+        name="games/[id]" options={{ headerTitle: ''}}
+        />
       </Stack>
     </ThemeProvider>
   );
